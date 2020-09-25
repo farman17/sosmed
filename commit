@@ -1,0 +1,61 @@
+#!/bin/bash
+clear
+
+# Copyright (C) 2020  Ahmad Farman <ahmadfarman1701@gmail.com>
+#
+# Sekolah DevOps Cilsy Batch 6
+echo
+
+tanggal=$(date)
+echo $tanggal;
+echo "Autocommit Ver.1.0"
+echo "----------------------------------------------------------"
+
+echo "Melakukan operasi GIT staged,commit, dan push secara Automatis"
+
+echo "::.operated by @farman.::"
+echo "-----------------------------------------------------------"
+echo
+
+jawaban="Y"
+jawabanlain="y"
+read -p "Apakah Anda ingin melanjutkan proses ? (y/n) " pilih;
+if [ $pilih == $jawaban ] || [ $pilih == $jawabanlain ];
+
+
+
+then
+clear
+echo
+echo "Menyiapkan Installasi GIT, mohon menunggu....."
+echo ".........................50% progress>>"
+echo" staged on process....."
+git add .
+echo
+git status
+echo
+echo "prosess 'staged' selesai"
+echo
+echo "commit on process....."
+echo
+echo -n "masukkan comment 'commit' disini : ";
+read komen;
+echo
+git commit -m "$komen"
+echo "proses 'commit' selesai"
+
+echo
+echo " ......................80% progress>>"
+echo
+echo "pushing to GIT proccess....please wait"
+git push -u origin master
+echo
+echo "...............DONE>>"
+echo "Proses Push ke server github telah selesai"
+echo
+
+else
+clear
+echo "::.===========Proses dibatalkan===========.::"
+echo
+fi
