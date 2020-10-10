@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1>salamaki ta fada salama',Daengs!</h1>
-                        <p>Informasi tentang bugis ada disini..salamaki</p>
+                        <p>Apa yang anda cari ada semua disini..</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
