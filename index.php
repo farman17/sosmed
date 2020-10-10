@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang pesbuk digital!</h1>
+                        <h1>Apa Kareba,Selamat ki' datang pesbuk Daeng!</h1>
                         <p>Malisiparappe Tallang sipaonang, Bugis culture</p>
                     </div>
                     <div class="col-md-4">
