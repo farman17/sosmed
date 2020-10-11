@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>salamaki ta fada salama',Daengs!</h1>
+                        <h1>Hay Gengs, Welcome back to the channel!</h1>
                         <p>Apa yang anda cari ada semua disini..</p>
                     </div>
                     <div class="col-md-4">
