@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1>Hay Gaess, Welcomes back to the channel!</h1>
-                        <p>Apa yang anda cari ?..</p>
+                        <p>Apa yang anda cari wanitaku?..</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
