@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Facebook Tjoy</title>
+    <title>Sikabari</title>
 
      <link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-8">
                         <h1>Hay Gaesskuu,Selamatko datang di welcome yess..</h1>
-                        <p>Apa yang anda cari wanitaku?..</p>
+                        <p>cari cari mai dulu sapa tau jodoh?..</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
