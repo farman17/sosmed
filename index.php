@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Welcome Pesbuk</title>
+    <title>Facebook</title>
 
      <link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Hay Gaess, Welcomes back to the channel!</h1>
+                        <h1>Hay Gaess,Selamat datang di welcome yess..</h1>
                         <p>Apa yang anda cari wanitaku?..</p>
                     </div>
                     <div class="col-md-4">
