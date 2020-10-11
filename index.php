@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Hay Gaesskuu,Selamat datang di welcome yess..</h1>
+                        <h1>Hay Gaesskuu,Selamatko datang di welcome yess..</h1>
                         <p>Apa yang anda cari wanitaku?..</p>
                     </div>
                     <div class="col-md-4">
