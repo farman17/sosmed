@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: landing
-        image: farman17/media-pesbuk
+        image: farman17/sosmediart-pesbuk
         ports:
         - containerPort: 80
         imagePullPolicy: "Always"
