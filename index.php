@@ -16,6 +16,7 @@
                     <div class="col-md-8">
                         <h1>Hello My brothers and my sisters!</h1>
                         <p>Welcome to Pesbuk, enjoy it!</p>
+                        <p>Jangan Lupa ADD aku yah gan,sist,ncang,ncing nyak daan baba..makasih</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
