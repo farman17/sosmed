@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Hello My brothers and my sisters!</h1>
+                        <h1>Hallo kakak, selamat datang yaa..</h1>
                         <p>Welcome to Pesbuk, enjoy it!</p>
                         <p>Jangan Lupa ADD aku yah gan,sist,ncang,ncing nyak daan baba..makasih</p>
                     </div>
