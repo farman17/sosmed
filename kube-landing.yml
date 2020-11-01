@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: landing
-        image: elqahtani/landing-page
+        image: farman17/landing-welcomez
         ports:
         - containerPort: 80
         imagePullPolicy: "Always"
