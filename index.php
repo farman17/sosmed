@@ -14,8 +14,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Hay Gaesskuu,Selamatko datang di welcome yess..</h1>
-                        <p>cari cari mai dulu sapa tau jodoh?..</p>
+                        <h1>Hello My brothers and my sisters</h1>
+                        <p>Welcome to Pesbuk, enjoy it!</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
