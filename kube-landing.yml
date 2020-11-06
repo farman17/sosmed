@@ -40,7 +40,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: serverfarms.dailybugis.my.id
+  - host: sosmed.dailybugis.my.id
     http:
       paths:
       #- path: /
