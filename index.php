@@ -14,9 +14,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Hallo kakak, selamat datang yaa..</h1>
+                        <h1>Welcome to DEVOPS Cilsy </h1>
                         <p>Welcome to Pesbuk, enjoy it!</p>
-                        <p>Jangan Lupa ADD aku yah gan,sist,ncang,ncing nyak daan baba..makasih</p>
+                        <p>#From Zero to Hero-Batch 6</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
