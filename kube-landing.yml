@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: sosmed
-        image: farman17/sosmediart-pesbuk
+        image: farman17/dekkeng-pesbuk
         ports:
         - containerPort: 80
         imagePullPolicy: "Always"
@@ -40,7 +40,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: sosmed.dailybugis.my.id
+  - host: sosmed.dekkeng.online
     http:
       paths:
       #- path: /
