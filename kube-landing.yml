@@ -11,27 +11,38 @@ spec:
   selector:
     app: sosmed
 ---
-apiVersion: apps/v1 # for versions before 1.9.0 use apps/v1beta2
+apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: sosmed-deployment
-  namespace: production
+  name: sosmed
 spec:
   selector:
     matchLabels:
       app: sosmed
-  replicas: 1 # tells deployment to run 2 pods matching the template
+  replicas: 2
   template:
     metadata:
       labels:
         app: sosmed
     spec:
       containers:
-      - name: sosmed
-        image: farman17/dekkeng-pesbuk
+      - name: php-pesbuk
+        image: farman17/dekkeng-pesbuk:tag
         ports:
-        - containerPort: 80
-        imagePullPolicy: "Always"
+          - containerPort: 80
+        env:
+        - name: DB_HOST
+          value: "dbsosmed.ce5wbyf7mq0s.us-east-2.rds.amazonaws.com"
+        - name: DB_USER
+          valueFrom:
+            secretKeyRef:
+              name: p-secret-fb
+              key: DB_USER
+        - name: DB_PASS
+          valueFrom:
+            secretKeyRef:
+              name: p-secret-fb
+              key: DB_PASS
 
 ---
 apiVersion: extensions/v1beta1
